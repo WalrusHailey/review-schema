@@ -1,0 +1,23 @@
+"review": {
+"@type": "Review",
+"url": "http://www.localreviews.com/restaurants/1/2/3/daves-steak-house.html",
+"author": {
+"@type": "Person",
+ "name": "Lisa Kennedy",
+"sameAs": "https://plus.google.com/114108465800532712602"
+ },
+"publisher": {
+"@type": "Organization",
+"name": "Denver Post",
+"sameAs": "http://www.denverpost.com"
+},
+"datePublished": "2014-03-13T20:00",
+"description": "Great old fashioned steaks but the salads are sub par.",
+ "inLanguage": "en",
+"reviewRating": {
+"@type": "Rating",
+"worstRating": 1,
+"bestRating": 4,
+"ratingValue": 3.5
+}
+}
