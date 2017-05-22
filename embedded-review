@@ -1,0 +1,17 @@
+<div itemscope itemtype="http://schema.org/Product">
+  <img itemprop="image" src="catcher-in-the-rye-book-cover.jpg" alt="Catcher in the Rye"/>
+  <span itemprop="name">The Catcher in the Rye</span>
+  <div itemprop="review" itemscope itemtype="http://schema.org/Review"> Review:
+    <span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
+        <span itemprop="ratingValue">5</span> -
+    </span>
+    <b>"<span itemprop="name">A masterpiece of literature</span>" </b> by 
+    <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <span itemprop="name">John Doe</span></span>, written on
+    <meta itemprop="datePublished" content="2006-05-04">May 4, 2006
+    <div itemprop="reviewBody">I really enjoyed this book. It captures the essential challenge people face as they try make sense of their lives and grow to adulthood.</div>
+    <span itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+        <meta itemprop="name" content="Washington Times">
+    </span>
+  </div>
+</div>
